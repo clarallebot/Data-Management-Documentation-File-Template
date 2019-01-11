@@ -244,7 +244,7 @@ Example.
 
           B. Name: [variable name]
              Description: [description of the variable]
-                          [Value labels if appropriate. Units if appropriate.]
+                          [Value labels if appropriate. Units if appropriate.]  
 -----------------------------------------
 ## CODE-SPECIFIC INFORMATION:
 -----------------------------------------
