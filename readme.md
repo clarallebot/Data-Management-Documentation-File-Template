@@ -5,12 +5,10 @@
 -------------------
 This repository contains a template for to help you create a documentation file. A Documentation File (sometimes referred to as README file)  has information about datasets that are made publicly available in data repositories.
 ## Creator Information
-Created by Clara Liebot Lorente and Mark Landon for the [Oregon State Research Data Services Group](https://guides.library.oregonstate.edu/research-data-services).
-
-
+Created by Clara Liebot Lorente and Mark Landon for the [Oregon State Research Data Services](https://guides.library.oregonstate.edu/research-data-services).
 
 ## Instructions for Completing the Template
-*Go [HERE](https://landonma.github.io/Data-Management-Templates-Project/howtouse) for more detailed instructions*  
+*Go [HERE](https://github.com/landonma/Data-Management-Templates-Project/blob/master/readme.md) for more detailed instructions*  
 Download our [repository](https://github.com/landonma/Data-Management-Documentation-File-Creator) repository which contains the template. Open the template in a text editor. Next fill in your own information and delete the instructions. If you want to use Github Pages upload the edited file into your own repository and enable Github Pages.
 
 ## Licensing
