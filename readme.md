@@ -17,6 +17,9 @@ This work is licensed under a [Creative Commons No Rights Reserved (CC0) license
 
 
 ## FAQ
+### Why do I need a Documentation Files?
+A Documentation File (sometimes referred to as README file)  has information about datasets that are made publicly available in data repositories. This document ensures that others have all the information they need to understand and potentially reuse the data, it identifies the authors of the dataset so that they can be contacted if needed, and clarify the terms of use of the data.
+
 ### Who is this project for?
 
 This Data Management Templates Project is aimed to anyone create and distribute various types of documents. Our templates can be used for any research projects, large and small, of any disciplines.
