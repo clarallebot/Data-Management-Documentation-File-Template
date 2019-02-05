@@ -2,47 +2,23 @@
 This documentation file was generated on  2019-02-04 by Mark Landon
 
 
--------------------
-## GENERAL INFORMATION
--------------------
 
+## Data Management Templates Project
 
-1) Title of Dataset
+####
 
-
-2) Creator Information  
+#### Creator Information  
 Created by Clara Liebot Lorente and Mark Landon for the [Oregon State Research Data Services](https://guides.library.oregonstate.edu/research-data-services).
 
-Name:  
+#### Contact Information  
+
+Name:  Clara Liebot Lorente
 Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
-
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
+College, School or Department:   
+Email:   
 
 
-4) Contact Information  
-
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-
-
--------------------
 ## CONTEXTUAL INFORMATION
--------------------
 
 1) Abstract for the dataset  
 This repository contains a template for to help you create a Data Management Implementation Document. This document gives specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed.  
@@ -51,42 +27,31 @@ This repository contains a template for to help you create a Data Management Imp
 2) Context of the research project that this dataset was collected for.  
 
 
---------------------------
 ## SHARING/ACCESS INFORMATION
---------------------------
 
 This work is licensed under a [Creative Commons No Rights Reserved (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). Anyone is free to use these templates even if you are not associated with Oregon State University. You are not expected to give attribution, but we will appreciate it if you do. You can include a line in your finalized document or in the readme of your repository saying "This DMP has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
 
 
-
---------------------------
 ## VERSIONING AND PROVENANCE
---------------------------
 
 1) Last modification date  
 This document was last modified in format 2019-02-04
 
----------------------
+
 ## DATA & FILE OVERVIEW
----------------------
-*[All files in the dataset should be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]*  
-*[Filenames should include extension.]*
-
-
-
 1) File List  
 
-      A. Filename:
-        Short description:
+      A. Filename: index.md
+        Short description: Documentation File Template in a markdown (.md) format
 
-      B. Filename:
-        Short description:
+      B. Filename: Documentation_File_Template.docx
+        Short description: The Documentation File Template in a word (docx) format
 
-      C. Filename:
-        Short description:
+      C. Filename: example.md
+        Short description: An example of the completed Documentation File Template
 
-
-2) Relationship between files:
+      D. Filename: readme.md
+        Short description: This file, a file document for the Data-Management-Documentation-File-Template Repository
 
 
 3) Formats  
