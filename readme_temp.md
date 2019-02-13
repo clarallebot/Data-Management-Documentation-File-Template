@@ -2,10 +2,7 @@
 This documentation file was generated on  2019-02-04 by Mark Landon
 
 
-
 ## Data Management Templates Project
-
-####
 
 #### Creator Information  
 Created by Clara Liebot Lorente and Mark Landon for the [Oregon State Research Data Services](https://guides.library.oregonstate.edu/research-data-services).
@@ -13,9 +10,9 @@ Created by Clara Liebot Lorente and Mark Landon for the [Oregon State Research D
 #### Contact Information  
 
 Name:  Clara Liebot Lorente
-Institution:  
-College, School or Department:   
-Email:   
+Institution:  Oregon State University
+College, School or Department:   Research D
+Email:   clara.llebot@oregonstate.edu
 
 
 ## CONTEXTUAL INFORMATION
@@ -56,23 +53,3 @@ This document was last modified in format 2019-02-04
 
 3) Formats  
 *[List all the formats present in this dataset. Include explanations or instructions if necessary (e.g. links to page describing a metadata standard)]*
-
-
------------------------------------------
-## CODE-SPECIFIC INFORMATION:
------------------------------------------
-
-1) Installation  
-*[Instructions to install the software, if necessary]*
-
-2) Requirements  
-*[Describe all programs and libraries that your code relies on. What should a user install to make sure that the code can be run successfully?]*
-
-3) Usage  
-*[Describe how to use the code. Include examples]*
-
-4) Support  
-*[Will the authors support others that want to use these scripts?]*
-
-5) Contributing  
-*[Can other researchers contribute to the code? Is the code in a public repository? Are pull requests welcome? In this case the code submitted in the repository will be a snapshot, which can be useful for preservation.]*
