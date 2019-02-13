@@ -1,5 +1,5 @@
 
-[Project Homepage](https://landonma.github.io/Data-Management-Templates-Project/) - [Main Repository](https://github.com/landonma/Data-Management-Templates-Project) - [Documentation File Template](https://landonma.github.io/Data-Management-Documentation-File-Creator/)
+[Project Homepage](https://landonma.github.io/Data-Management-Templates-Project/) - [Main Repository](https://github.com/landonma/Data-Management-Templates-Project) - [Documentation File Template](https://landonma.github.io/Data-Management-Documentation-File-Template/)
 
 # Documentation File Template README
 -------------------
